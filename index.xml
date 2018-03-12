@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>叔弢遗事</title>
-    <link>http://localhost:1313/</link>
+    <link>http://zhoushutao.cn/</link>
     <description>Recent content on 叔弢遗事</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhoushutao.cn/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
