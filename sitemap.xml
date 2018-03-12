@@ -3,7 +3,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zhoushutao.cn/post/timeline/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://zhoushutao.cn/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhoushutao.cn/post/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -16,6 +30,42 @@
   
   <url>
     <loc>http://zhoushutao.cn/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhoushutao.cn/tags/%E5%91%A8%E5%8F%94%E5%BC%A2%E6%97%A7%E5%B1%85/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhoushutao.cn/tags/%E5%A4%A7%E4%BA%8B%E8%AE%B0/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhoushutao.cn/categories/%E6%97%A7%E5%B1%85%E6%A1%88/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhoushutao.cn/tags/%E6%A1%88%E6%83%85/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://zhoushutao.cn/tags/%E7%9D%A6%E5%8D%97%E9%81%93129%E5%8F%B7/</loc>
+    <lastmod>2018-03-12T18:41:47+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
