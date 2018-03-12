@@ -290,15 +290,31 @@
   </article>
         </div>
         
-  
+  <div id="comments-gitment"></div>
+  <link rel="stylesheet" href="/lib/gitment/gitment-0.0.3.min.css">
+    <script src="/lib/gitment/gitment-0.0.3.min.js"></script>
+  <script type="text/javascript">
+  const gitment = new Gitment({
+    id: '2018-03-12 18:41:47 \x2b0800 CST',
+    title: '周叔弢旧居案-大事记',
+    link: decodeURI(location.href),
+    desc: '2018 2018年1月6日。韩英和和平区政法委书记靳凡在社区居委会见面。靳凡表示房屋抢救必须要到4月份才能实施。同时，因整理公司已经走法律途径，他',
+    owner: 'hanying47',
+    repo: 'zhoushutao\/zhoushutao.github.io',
+    oauth: {
+      client_id: '7e22796c78a1806acf24',
+      client_secret: 'cd95e4c5789ba34aec84c97c9d2a2cb6b20e5855'
+    }
+  })
+  gitment.render('comments-gitment')
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://github.com/imsun/gitment">comments powered by gitment.</a></noscript>
       </div>
     </main>
 
     <footer id="footer" class="footer">
       <div class="social-links">
       <a href="mailto:hanying47@icloud.com" class="iconfont icon-email" title="email"></a>
-      <a href="http://localhost" class="iconfont icon-weibo" title="weibo"></a>
-      <a href="http://localhost" class="iconfont icon-zhihu" title="zhihu"></a>
   <a href="http://zhoushutao.cn/index.xml" type="application/rss+xml" class="iconfont icon-rss" title="rss"></a>
 </div>
 
